@@ -1,2 +1,5 @@
 # Server_MC
-Servidor de Minecraft
+Servidor de Minecraft utilizando: 
+- Codespaces
+- Crafty Controller
+- Playit
